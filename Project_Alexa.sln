@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Project_Alexa", "Project_Alexa\Project_Alexa.pyproj", "{D2FC17D5-4981-4FA2-9B0E-3E4C85F4D161}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D2FC17D5-4981-4FA2-9B0E-3E4C85F4D161}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2FC17D5-4981-4FA2-9B0E-3E4C85F4D161}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {050E9D27-04FD-41B7-A111-9EAAB558BA4D}
+	EndGlobalSection
+EndGlobal
